@@ -3,6 +3,9 @@
 		{
 			"name": "DS",
 			"path": ".."
+		},
+		{
+			"path": "../../netplan"
 		}
 	],
 	"settings": {
